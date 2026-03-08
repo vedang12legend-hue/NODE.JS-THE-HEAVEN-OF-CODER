@@ -1,5 +1,6 @@
 # NODE.JS-THE-HEAVEN-OF-CODER
 Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside the browser, mainly on the server side.
+
 ⚙️ Key Features
 
 Asynchronous & Non-blocking I/O – Handles many requests at the same time.
@@ -11,6 +12,7 @@ Event-Driven Architecture – Ideal for real-time apps.
 Single Programming Language – Developers can use JavaScript for both frontend and backend.
 
 Large Package Ecosystem – Uses npm to install libraries and tools.
+
 💻 Common Uses
 
 Web servers and APIs
@@ -22,7 +24,9 @@ Streaming applications
 Backend for websites and mobile apps
 
 Microservices
+
 🧠 Example of Node.js Code
+
 const http = require('http');
 
 const server = http.createServer((req, res) => {
